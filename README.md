@@ -1,94 +1,61 @@
 
-
-<h1 align="center">Hi 👋, I'm Ahmed from Libya <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>  
-<h3 align="center">A passionate Full-Stack Developer and founder of Host Libya</h3>
-
-- 🔭 I’m currently working on developing **full-featured web applications** using PHP and JavaScript  
-- 🌱 I’m continuously learning **Laravel, React, and modern front-end technologies**  
-- 👯 I’m looking to collaborate on **professional software projects**  
-- 📫 Contact me at: **modearsd@gmail.com**  
-- ⚡ I enjoy reading, basketball, skateboarding, and of course, coding
-
 ---
 
-<h2 align="center">🚀 About Host Libya</h2>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>  
+<h3 align="center">Founder of Host Libya || Full-Stack Developer</h3>
 
-- 🏢 **Host Libya** is my own company — a leading Libyan provider of **web hosting, software development, and cloud services** since 2016  
-- 🌐 Official Website: [hostlibya.com](https://hostlibya.com)  
-- 📍 Location: Benghazi, Libya  
-- 📞 Phone: +218-91-575-7379  
-- 📧 Email: info@hostlibya.com / sp@hostlibya.com  
-- 💡 Our services include:
-  - Free and premium website hosting
-  - Full support for **WordPress, PHP, MySQL, Node.js, Laravel, React**
-  - Advanced development tools and Git integration
-  - SSL certificates and daily backups
-  - 99.9% uptime guarantee and high-level security  
-- 🧑‍💻 We serve developers and startups looking for **reliable and fast hosting solutions**
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=ahmedhostlibya&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhostlibya" />  
+  <img src="https://img.shields.io/github/followers/ahmedhostlibya?label=Followers" alt="ahmedhostlibya" />  
+</p>  
+<br>  
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 
+- :school: I am a `Computer Science Graduate` from Libya  
+- 🔭 I’m currently leading [Host Libya](https://hostlibya.com), a company specialized in web hosting and software development  
+- 🌱 I’m currently working with `PHP`, `Laravel`, `React`, and `Flutter`  
+- 📫 How to reach me **modearsd@gmail.com**  
+- :thinking: I’m open for `collaboration and business partnerships`  
+- :nerd_face: Always `learning new technologies`  
+- 🐼 Doing my best to support developers and startups in Libya and beyond  
 
----
+<br>
 
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  </kbd>
-  <br>
-  <kbd>
-    <kbd>Apps</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
-  </kbd>
-  <kbd>
-    <kbd>OS</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  </kbd>
+## 📩 Connect with me  
+<p align="center">  
+  <a href="mailto:modearsd@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="https://www.facebook.com/hostlibya" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>  
+  <a href="https://www.linkedin.com/company/hostlibya/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
+## 🛠 Languages and Tools  
+<br>  
+<p align="center">  
+  <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>  
+  <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
+  <a href="https://www.php.net/" title="PHP"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>  
+  <a href="https://laravel.com/" title="Laravel"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>  
+  <a href="https://reactjs.org/" title="React"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>  
+  <a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>  
+  <a href="https://dart.dev" title="Dart"><img src="https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>  
+  <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>  
+  <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>  
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>  
+</p>
+
+## 📊 Github Stats  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhostlibya&theme=tokyonight_duo" alt="ahmedhostlibya" /></p>  
+<br/>  
+<p align="center">  
+  <a href="https://github.com/anuraghazra/github-readme-stats">  
+    <img alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedhostlibya&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>  
+  </a>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhostlibya&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmedhostlibya" height="230px"/>  
+</p>  
+<br/>  
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+---
+
+هل ترغب أن أضيف قسمًا خاصًا بمشاريعك أو شهادات العملاء؟
