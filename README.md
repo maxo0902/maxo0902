@@ -53,8 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhostlibya&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmedhostlibya" height="230px"/>  
 </p>  
 <br/>  
-
-=
----
-
-هل ترغب أن أضيف قسمًا خاصًا بمشاريعك أو شهادات العملاء؟
