@@ -43,8 +43,7 @@
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>  
 </p>
 
-## 📊 Github Stats  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhostlibya&theme=tokyonight_duo" alt="ahmedhostlibya" /></p>  
+## 📊 Github Stats 
 <br/>  
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">  
