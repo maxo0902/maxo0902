@@ -42,13 +42,3 @@
   <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>  
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>  
 </p>
-
-## 📊 Github Stats 
-<br/>  
-<p align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats">  
-    <img alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maxo0902&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" maxo0902="230px"/>  
-  </a>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxo0902&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="maxo0902" height="230px"/>  
-</p>  
-<br/>  
