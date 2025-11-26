@@ -42,3 +42,4 @@
   <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>  
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>  
 </p>
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/374b1611-1a4e-40ad-ad9a-b6a2fcb249a6" />
